@@ -10,6 +10,7 @@ _and a database server_
 - The load balancer uses HAProxy software and was hosted on the private cloud
 - The web tier uses Apache web server both on the private and the public cloud platforms
 - There are two deployment a SMALL and a MEDIUM
+
         ## SMALL
          - 1 vCPU, 1 core, 1GB RAM on private cloud
          - t2.micro on AWS public cloud
